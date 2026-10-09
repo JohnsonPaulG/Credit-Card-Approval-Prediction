@@ -162,8 +162,8 @@ This project ships ready to deploy as-is:
 |---|---|---|
 | _Shaik Asha_ | _238X1A42A1_ | Project Leader |
 | _Sravanthi Choudaboina_ | _238X1A4220_ | Machine Learning Developer |
-| _Yagnesh challa_ | _238X1A4214_ | Backend Developer |
-| _Gandham Johnson Paul_ | _238X1A4225_ | Frontend Developer |
+| _Yagnesh challa_ | _238X1A4214_ | Frontend Developer |
+| _Gandham Johnson Paul_ | _238X1A4225_ | Backend Developer |
 | _Akkala Shanmukha Reddy_ | _238X1A4249_ | Documentation & Testing |
 
 
